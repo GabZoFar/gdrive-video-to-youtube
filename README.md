@@ -1,8 +1,8 @@
 # gdrive-video-to-youtube
  Automatically upload videos stored on G Drive to YouTube after a delay (hours, days, months...).
- 1. Recursively searches in your sub folders
- 2. Can upload as Public, Private (I would avoid unlisted as it will be sunsetted soon)
- 3. Check for duplicates (see Google sheet setup)
+ 1. Recursively searches in your drive sub folders
+ 2. Can upload videos as Public, Private (I would avoid unlisted as it will be sunsetted soon)
+ 3. Check for existing uploads/duplicates (see Google sheet setup)
 
 ## **Video Upload Script Documentation**
 
