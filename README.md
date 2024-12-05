@@ -1,3 +1,7 @@
+# **new! 05/12/2024** 
+Added multiple folder and email recipient support.
+
+
 # gdrive-video-to-youtube
  Automatically upload videos stored on G Drive to YouTube after a delay (hours, days, months...).
  1. Recursively searches in your drive sub folders
@@ -70,6 +74,5 @@ The script integrates with Google Sheets to store and retrieve the uploaded vide
 
 After the video uploading process is complete, the script sends a notification email to the specified recipient. The email subject and body are customized based on the results of the upload process.
 
-That's the documentation for the provided script. Make sure to review and customize the configuration settings and prerequisites before running the script.
-
-Thanks ChatGPT
+--
+Thanks ChatGPT and my brain.
